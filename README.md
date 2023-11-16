@@ -1,5 +1,5 @@
 # Nasreen_Portfolio
-Projectsof Data science
+Projects in Data science
 
 Project Python
 It is a business critical requirement to understand the value derived from a customer. RFM is a method used for analyzing customer value.
